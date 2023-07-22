@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\thu6_pvo_dictionary.props" />
+</Project>
